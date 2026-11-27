@@ -1,7 +1,7 @@
 ^G# Python Calculator
 
 ## Project Description
-A Python calculator developed by Feature One.
+A Python calculator developed by Feature One and Feature Two.
 
 ## Features
 - Addition
