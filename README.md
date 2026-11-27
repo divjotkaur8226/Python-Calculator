@@ -1,7 +1,7 @@
 # Python Calculator
 
 ## Project Description
-A simple calculator developed using Python.
+A Python calculator developed by Feature Two.
 
 ## Features
 - Addition
